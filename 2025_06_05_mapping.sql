@@ -1,0 +1,1 @@
+UPDATE sensor_mapping SET derivation = 'value' WHERE derivation = 'value*20';
