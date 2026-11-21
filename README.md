@@ -43,3 +43,4 @@ INSERT INTO sensor_mapping (
     ('Battery', 'Battery Status Code', 'Bat_status', 'dragino', 'lht65n', '', NULL, 'Battery status code (enum) reported by LHT65N', TRUE, 120),
     ('Sensor Info', 'External Sensor Type', 'Ext_sensor', 'dragino', 'lht65n', '', NULL, 'External sensor type label from LHT65N', FALSE, 180);
 
+This project was created as part of the work supported by the National Science Foundation (NSF) under the award [CSSI: Elements: Innovating for Edge-to-Edge Climate Services (Award #2209806)](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2209806&HistoricalAwards=false).
